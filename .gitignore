@@ -1,6 +1,10 @@
 # Created by https://www.toptal.com/developers/gitignore/api/django,dotenv,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=django,dotenv,python
 
+# Files with sensitive info
+T_pipe.ipynb 
+Plotly_Viz.ipynb
+
 ### Django ###
 *.log
 *.pot
